@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory /home/machenhui/android-ndk-r8d/platforms/android-14/arch-arm/usr/include jni /home/machenhui/android-ndk-r8d/sources/cxx-stl/stlport external/gtest/include jni/../../../.. jni/../../../../.. jni/../../../include jni/../../../../voice_engine/include /home/machenhui/android-ndk-r8d/sources/cxx-stl/stlport/stlport /home/machenhui/android-ndk-r8d/sources/cxx-stl//gabi++/include
